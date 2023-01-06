@@ -637,8 +637,11 @@
 			"xpos"			"155"
 			"ypos"			"105"
 			"wide"			"190"
-			"tall"			"12"
+			"tall"			"16"
 			"zpos"			"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor"		"white"
 		}
 	}
 	
@@ -673,10 +676,10 @@
 			"font"			"HudFontSmallishBold"
 			"xpos"			"156"
 			"ypos"			"106"
-			"wide"			"190"
+			"wide"			"0"
 			"tall"			"12"
 			"visible"		"1"
-			"fgcolor"		"Black"
+			"fgcolor"		"white"
 		}
 	}
 	
